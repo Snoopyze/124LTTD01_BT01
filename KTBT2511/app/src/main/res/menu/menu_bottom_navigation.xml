@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/trangchu"
+        android:icon="@drawable/home_svgrepo_com"
+        android:title="Trang chủ"/>
+    <item
+        android:id="@+id/thuvien"
+        android:icon="@drawable/book_open_svgrepo_com"
+        android:title="Thư viện"/>
+    <item
+        android:id="@+id/taikhoan"
+        android:icon="@drawable/account_svgrepo_com"
+        android:title="Tài khoản"/>
+    <item
+        android:id="@+id/timkiem"
+        android:icon="@drawable/find_magnifier_search_zoom_look_svgrepo_com"
+        android:title="Tìm kiếm"/>
+</menu>
